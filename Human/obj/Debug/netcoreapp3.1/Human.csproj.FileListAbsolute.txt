@@ -1,0 +1,13 @@
+/mnt/c/Users/jtcla/Documents/projects/dojo/csharp/2_language/2_oop/Human/bin/Debug/netcoreapp3.1/Human
+/mnt/c/Users/jtcla/Documents/projects/dojo/csharp/2_language/2_oop/Human/bin/Debug/netcoreapp3.1/Human.deps.json
+/mnt/c/Users/jtcla/Documents/projects/dojo/csharp/2_language/2_oop/Human/bin/Debug/netcoreapp3.1/Human.runtimeconfig.json
+/mnt/c/Users/jtcla/Documents/projects/dojo/csharp/2_language/2_oop/Human/bin/Debug/netcoreapp3.1/Human.runtimeconfig.dev.json
+/mnt/c/Users/jtcla/Documents/projects/dojo/csharp/2_language/2_oop/Human/bin/Debug/netcoreapp3.1/Human.dll
+/mnt/c/Users/jtcla/Documents/projects/dojo/csharp/2_language/2_oop/Human/bin/Debug/netcoreapp3.1/Human.pdb
+/mnt/c/Users/jtcla/Documents/projects/dojo/csharp/2_language/2_oop/Human/obj/Debug/netcoreapp3.1/Human.csprojAssemblyReference.cache
+/mnt/c/Users/jtcla/Documents/projects/dojo/csharp/2_language/2_oop/Human/obj/Debug/netcoreapp3.1/Human.AssemblyInfoInputs.cache
+/mnt/c/Users/jtcla/Documents/projects/dojo/csharp/2_language/2_oop/Human/obj/Debug/netcoreapp3.1/Human.AssemblyInfo.cs
+/mnt/c/Users/jtcla/Documents/projects/dojo/csharp/2_language/2_oop/Human/obj/Debug/netcoreapp3.1/Human.csproj.CoreCompileInputs.cache
+/mnt/c/Users/jtcla/Documents/projects/dojo/csharp/2_language/2_oop/Human/obj/Debug/netcoreapp3.1/Human.dll
+/mnt/c/Users/jtcla/Documents/projects/dojo/csharp/2_language/2_oop/Human/obj/Debug/netcoreapp3.1/Human.pdb
+/mnt/c/Users/jtcla/Documents/projects/dojo/csharp/2_language/2_oop/Human/obj/Debug/netcoreapp3.1/Human.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+/mnt/c/Users/jtcla/Documents/projects/dojo/csharp/2_language/2_oop/HungryNinja/bin/Debug/netcoreapp3.1/HungryNinja
+/mnt/c/Users/jtcla/Documents/projects/dojo/csharp/2_language/2_oop/HungryNinja/bin/Debug/netcoreapp3.1/HungryNinja.deps.json
+/mnt/c/Users/jtcla/Documents/projects/dojo/csharp/2_language/2_oop/HungryNinja/bin/Debug/netcoreapp3.1/HungryNinja.runtimeconfig.json
+/mnt/c/Users/jtcla/Documents/projects/dojo/csharp/2_language/2_oop/HungryNinja/bin/Debug/netcoreapp3.1/HungryNinja.runtimeconfig.dev.json
+/mnt/c/Users/jtcla/Documents/projects/dojo/csharp/2_language/2_oop/HungryNinja/bin/Debug/netcoreapp3.1/HungryNinja.dll
+/mnt/c/Users/jtcla/Documents/projects/dojo/csharp/2_language/2_oop/HungryNinja/bin/Debug/netcoreapp3.1/HungryNinja.pdb
+/mnt/c/Users/jtcla/Documents/projects/dojo/csharp/2_language/2_oop/HungryNinja/obj/Debug/netcoreapp3.1/HungryNinja.csprojAssemblyReference.cache
+/mnt/c/Users/jtcla/Documents/projects/dojo/csharp/2_language/2_oop/HungryNinja/obj/Debug/netcoreapp3.1/HungryNinja.AssemblyInfoInputs.cache
+/mnt/c/Users/jtcla/Documents/projects/dojo/csharp/2_language/2_oop/HungryNinja/obj/Debug/netcoreapp3.1/HungryNinja.AssemblyInfo.cs
+/mnt/c/Users/jtcla/Documents/projects/dojo/csharp/2_language/2_oop/HungryNinja/obj/Debug/netcoreapp3.1/HungryNinja.csproj.CoreCompileInputs.cache
+/mnt/c/Users/jtcla/Documents/projects/dojo/csharp/2_language/2_oop/HungryNinja/obj/Debug/netcoreapp3.1/HungryNinja.dll
+/mnt/c/Users/jtcla/Documents/projects/dojo/csharp/2_language/2_oop/HungryNinja/obj/Debug/netcoreapp3.1/HungryNinja.pdb
+/mnt/c/Users/jtcla/Documents/projects/dojo/csharp/2_language/2_oop/HungryNinja/obj/Debug/netcoreapp3.1/HungryNinja.genruntimeconfig.cache

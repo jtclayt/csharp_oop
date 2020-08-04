@@ -7,12 +7,18 @@ namespace HungryNinja
         static void Main(string[] args)
         {
             Buffet buffet = new Buffet();
-            Ninja ninja = new Ninja();
-            while (!ninja.IsFull())
+            SweetTooth st = new SweetTooth();
+            SpiceHound sh = new SpiceHound();
+            while (!st.IsFull())
             {
-                ninja.Eat(buffet.Serve());
+                st.Eat(buffet.Serve());
             }
-            ninja.Eat(buffet.Serve());
+            st.Eat(buffet.Serve());
+            while (!sh.IsFull())
+            {
+                sh.Eat(buffet.Serve());
+            }
+            sh.Eat(buffet.Serve());
         }
     }
 }

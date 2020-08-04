@@ -1,0 +1,13 @@
+/mnt/c/Users/jtcla/Documents/projects/dojo/csharp/2_language/2_oop/phone/bin/Debug/netcoreapp3.1/Phone
+/mnt/c/Users/jtcla/Documents/projects/dojo/csharp/2_language/2_oop/phone/bin/Debug/netcoreapp3.1/Phone.deps.json
+/mnt/c/Users/jtcla/Documents/projects/dojo/csharp/2_language/2_oop/phone/bin/Debug/netcoreapp3.1/Phone.runtimeconfig.json
+/mnt/c/Users/jtcla/Documents/projects/dojo/csharp/2_language/2_oop/phone/bin/Debug/netcoreapp3.1/Phone.runtimeconfig.dev.json
+/mnt/c/Users/jtcla/Documents/projects/dojo/csharp/2_language/2_oop/phone/bin/Debug/netcoreapp3.1/Phone.dll
+/mnt/c/Users/jtcla/Documents/projects/dojo/csharp/2_language/2_oop/phone/bin/Debug/netcoreapp3.1/Phone.pdb
+/mnt/c/Users/jtcla/Documents/projects/dojo/csharp/2_language/2_oop/phone/obj/Debug/netcoreapp3.1/Phone.csprojAssemblyReference.cache
+/mnt/c/Users/jtcla/Documents/projects/dojo/csharp/2_language/2_oop/phone/obj/Debug/netcoreapp3.1/Phone.AssemblyInfoInputs.cache
+/mnt/c/Users/jtcla/Documents/projects/dojo/csharp/2_language/2_oop/phone/obj/Debug/netcoreapp3.1/Phone.AssemblyInfo.cs
+/mnt/c/Users/jtcla/Documents/projects/dojo/csharp/2_language/2_oop/phone/obj/Debug/netcoreapp3.1/Phone.csproj.CoreCompileInputs.cache
+/mnt/c/Users/jtcla/Documents/projects/dojo/csharp/2_language/2_oop/phone/obj/Debug/netcoreapp3.1/Phone.dll
+/mnt/c/Users/jtcla/Documents/projects/dojo/csharp/2_language/2_oop/phone/obj/Debug/netcoreapp3.1/Phone.pdb
+/mnt/c/Users/jtcla/Documents/projects/dojo/csharp/2_language/2_oop/phone/obj/Debug/netcoreapp3.1/Phone.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+/mnt/c/Users/jtcla/Documents/projects/dojo/csharp/2_language/2_oop/SLList/bin/Debug/netcoreapp3.1/SLList
+/mnt/c/Users/jtcla/Documents/projects/dojo/csharp/2_language/2_oop/SLList/bin/Debug/netcoreapp3.1/SLList.deps.json
+/mnt/c/Users/jtcla/Documents/projects/dojo/csharp/2_language/2_oop/SLList/bin/Debug/netcoreapp3.1/SLList.runtimeconfig.json
+/mnt/c/Users/jtcla/Documents/projects/dojo/csharp/2_language/2_oop/SLList/bin/Debug/netcoreapp3.1/SLList.runtimeconfig.dev.json
+/mnt/c/Users/jtcla/Documents/projects/dojo/csharp/2_language/2_oop/SLList/bin/Debug/netcoreapp3.1/SLList.dll
+/mnt/c/Users/jtcla/Documents/projects/dojo/csharp/2_language/2_oop/SLList/bin/Debug/netcoreapp3.1/SLList.pdb
+/mnt/c/Users/jtcla/Documents/projects/dojo/csharp/2_language/2_oop/SLList/obj/Debug/netcoreapp3.1/SLList.csprojAssemblyReference.cache
+/mnt/c/Users/jtcla/Documents/projects/dojo/csharp/2_language/2_oop/SLList/obj/Debug/netcoreapp3.1/SLList.AssemblyInfoInputs.cache
+/mnt/c/Users/jtcla/Documents/projects/dojo/csharp/2_language/2_oop/SLList/obj/Debug/netcoreapp3.1/SLList.AssemblyInfo.cs
+/mnt/c/Users/jtcla/Documents/projects/dojo/csharp/2_language/2_oop/SLList/obj/Debug/netcoreapp3.1/SLList.csproj.CoreCompileInputs.cache
+/mnt/c/Users/jtcla/Documents/projects/dojo/csharp/2_language/2_oop/SLList/obj/Debug/netcoreapp3.1/SLList.dll
+/mnt/c/Users/jtcla/Documents/projects/dojo/csharp/2_language/2_oop/SLList/obj/Debug/netcoreapp3.1/SLList.pdb
+/mnt/c/Users/jtcla/Documents/projects/dojo/csharp/2_language/2_oop/SLList/obj/Debug/netcoreapp3.1/SLList.genruntimeconfig.cache

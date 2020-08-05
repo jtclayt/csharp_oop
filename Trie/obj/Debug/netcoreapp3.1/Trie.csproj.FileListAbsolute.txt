@@ -1,0 +1,13 @@
+/mnt/c/Users/jtcla/Documents/projects/dojo/csharp/2_language/2_oop/Trie/bin/Debug/netcoreapp3.1/Trie
+/mnt/c/Users/jtcla/Documents/projects/dojo/csharp/2_language/2_oop/Trie/bin/Debug/netcoreapp3.1/Trie.deps.json
+/mnt/c/Users/jtcla/Documents/projects/dojo/csharp/2_language/2_oop/Trie/bin/Debug/netcoreapp3.1/Trie.runtimeconfig.json
+/mnt/c/Users/jtcla/Documents/projects/dojo/csharp/2_language/2_oop/Trie/bin/Debug/netcoreapp3.1/Trie.runtimeconfig.dev.json
+/mnt/c/Users/jtcla/Documents/projects/dojo/csharp/2_language/2_oop/Trie/bin/Debug/netcoreapp3.1/Trie.dll
+/mnt/c/Users/jtcla/Documents/projects/dojo/csharp/2_language/2_oop/Trie/bin/Debug/netcoreapp3.1/Trie.pdb
+/mnt/c/Users/jtcla/Documents/projects/dojo/csharp/2_language/2_oop/Trie/obj/Debug/netcoreapp3.1/Trie.csprojAssemblyReference.cache
+/mnt/c/Users/jtcla/Documents/projects/dojo/csharp/2_language/2_oop/Trie/obj/Debug/netcoreapp3.1/Trie.AssemblyInfoInputs.cache
+/mnt/c/Users/jtcla/Documents/projects/dojo/csharp/2_language/2_oop/Trie/obj/Debug/netcoreapp3.1/Trie.AssemblyInfo.cs
+/mnt/c/Users/jtcla/Documents/projects/dojo/csharp/2_language/2_oop/Trie/obj/Debug/netcoreapp3.1/Trie.csproj.CoreCompileInputs.cache
+/mnt/c/Users/jtcla/Documents/projects/dojo/csharp/2_language/2_oop/Trie/obj/Debug/netcoreapp3.1/Trie.dll
+/mnt/c/Users/jtcla/Documents/projects/dojo/csharp/2_language/2_oop/Trie/obj/Debug/netcoreapp3.1/Trie.pdb
+/mnt/c/Users/jtcla/Documents/projects/dojo/csharp/2_language/2_oop/Trie/obj/Debug/netcoreapp3.1/Trie.genruntimeconfig.cache
